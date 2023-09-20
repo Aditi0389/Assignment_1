@@ -1,4 +1,4 @@
-package Demo;
+package com.org.radical;
 
 public class Hello_World {
 	public static void main(String args[])

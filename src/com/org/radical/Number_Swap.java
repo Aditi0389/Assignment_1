@@ -1,4 +1,4 @@
-package Demo;
+package com.org.radical;
 
 public class Number_Swap {
 	public static void main(String args[])
